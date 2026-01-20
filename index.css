@@ -1,7 +1,13 @@
 {
-  padding:0;
-  margin:0;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
+
 body {
-  background-color: vertical-gradient(blue,purple);
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  background-color: linear-gradient(blue,purple);
+  color: #333;
+  padding-top: 60px; /* untuk header fixed */
 }
