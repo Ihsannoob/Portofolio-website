@@ -8,3 +8,6 @@ body {
   background-color: blue;
   padding-top: 60px; /* untuk header fixed */
 }
+#main {
+  text-align: center;
+}
