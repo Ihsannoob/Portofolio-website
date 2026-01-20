@@ -5,8 +5,6 @@
 }
 
 body {
-  line-height: 1.6;
-  background-color: linear-gradient(#03c2fc,#9003fc);
-  color: #333;
+  background-color: blue;
   padding-top: 60px; /* untuk header fixed */
 }
