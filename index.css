@@ -6,7 +6,6 @@
 
 body {
   background-image: linear-gradient(to bottom,blue,purple);
-  padding-top: 60px; /* untuk header fixed */
 }
 #main {
   text-align: center;
