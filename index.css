@@ -23,7 +23,7 @@ nav {
 nav > .header {
   display: flex;
   justify-content: space-between;
-  font-size: 32px;
+  font-size: 20px;
   align-items: center;
 }
 .menu {
@@ -45,7 +45,7 @@ nav > .header {
   align-items: center;
 }
 .logo > img {
-  height: 70px;
+  height: 40px;
 }
 /*Hero Section*/
 header {
