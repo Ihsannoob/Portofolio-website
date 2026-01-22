@@ -48,7 +48,7 @@ nav > .header {
 }
 /*Hero Section*/
 header {
-  background: url("/image/background.jpg");
+  background: url("image/background.jpg");
   height: 100vh;
   background-position: center center;
   background-size: cover;
