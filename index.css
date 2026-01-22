@@ -7,21 +7,27 @@ html, body{
   font-size: 16px;
   font-family: "Playfair Display", serif;
 }
+nav {
+  background-color: #30364F;
+  color: #fff;
+}
 .header {
   width: 1024px;
   margin: auto;
+  padding: 20px 0px 20px 0px;
 }
 nav > .header {
   display: flex;
   justify-content: space-between;
   font-size: 32px;
+  align-items: center;
 }
 .menu {
   width: 30%;
 }
 .menu > ul > li > a {
   text-decoration: none;
-  color: #FFF;
+  color: #fff;
 }
 .menu > ul {
   display: flex;
@@ -29,4 +35,11 @@ nav > .header {
   margin: 0px;
   padding: 0px;
   justify-content: space-between;
+}
+.logo {
+  display: flex;
+  align-items: center;
+}
+.logo > img {
+  height: 45px
 }
