@@ -18,7 +18,7 @@ nav {
 .header {
   width: 1024px;
   margin: auto;
-  padding: 50px 0px 50px 0px;
+  padding: 35px 0px 35px 0px;
 }
 nav > .header {
   display: flex;
