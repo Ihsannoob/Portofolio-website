@@ -33,7 +33,7 @@ nav > .header {
   display: flex;
   list-style-type: none;
   margin: 0px;
-  padding: 0px;
+  padding: 10px;
   justify-content: space-between;
 }
 .logo {
