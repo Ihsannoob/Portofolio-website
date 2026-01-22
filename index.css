@@ -75,6 +75,7 @@ header {
   justify-content: center;
   top: 0;
   left: 0;
+  transform: translateY(-12px)
 }
 /*animation for hero*/
 .hero:hover {
