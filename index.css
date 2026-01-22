@@ -23,7 +23,7 @@ nav > .header {
   align-items: center;
 }
 .menu {
-  width: 40%;
+  width: 45%;
 }
 .menu > ul > li > a {
   text-decoration: none;
@@ -41,5 +41,5 @@ nav > .header {
   align-items: center;
 }
 .logo > img {
-  height: 45px
+  height: 60px
 }
