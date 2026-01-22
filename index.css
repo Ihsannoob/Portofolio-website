@@ -65,9 +65,12 @@ header {
   left: 0;
 }
 .hero {
+  display: flex;
   color: #fff;
   width: 100%;
   height: 100%;
   position: absolute;
   font-size: 100px;
+  align-items: center;
+  justify-content: center;
 }
