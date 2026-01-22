@@ -19,11 +19,11 @@ nav {
 nav > .header {
   display: flex;
   justify-content: space-between;
-  font-size: 32px;
+  font-size: 20px;
   align-items: center;
 }
 .menu {
-  width: 30%;
+  width: 20%;
 }
 .menu > ul > li > a {
   text-decoration: none;
