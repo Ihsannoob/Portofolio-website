@@ -80,7 +80,7 @@ header {
 }
 /*animation for hero*/
 .hero:hover {
-  animation: floating 3s linear infinite;
+  animation: floating 1s linear infinite;
 }
 @keyframes floating {
   from {
