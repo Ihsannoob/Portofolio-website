@@ -8,7 +8,7 @@ body {
   font-family: "Playfair Display", serif;
 }
 nav {
-  background-color: #400FF6;
+  background-color: #0E1B2A;
   color: #fff;
   position: sticky;
   z-index: 100;
@@ -56,10 +56,10 @@ header {
   position: relative;
 }
 .hero-opacity {
-  background-color: #400FF6;
+  background-color: #000;
   width: 100%;
   height: 100%;
-  opacity: 0.5;
+  opacity: 0.1;
   position: absolute;
   top: 0;
   left: 0;
