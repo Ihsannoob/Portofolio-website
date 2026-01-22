@@ -13,11 +13,12 @@ nav {
   position: sticky;
   z-index: 100;
   top: 0;
+  box-shadow: 0px 5px 5px ;
 }
 .header {
   width: 1024px;
   margin: auto;
-  padding: 20px 0px 20px 0px;
+  padding: 50px 0px 50px 0px;
 }
 nav > .header {
   display: flex;
@@ -75,7 +76,7 @@ header {
   justify-content: center;
   top: 0;
   left: 0;
-  transform: translateY(-12px)
+  transform: translateY(-30px)
 }
 /*animation for hero*/
 .hero:hover {
@@ -83,9 +84,9 @@ header {
 }
 @keyframes floating {
   from {
-    transform: rotate(0deg) translateY(-12px) rotate(0deg);
+    transform: rotate(0deg) translateY(-30px) rotate(0deg);
   }
   to {
-    transform: rotate(360deg) translateY(-12px) rotate(-360deg)
+    transform: rotate(360deg) translateY(-10px) rotate(-360deg)
   }
 }
