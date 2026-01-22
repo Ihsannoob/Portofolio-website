@@ -76,3 +76,15 @@ header {
   top: 0;
   left: 0;
 }
+/*animation for hero*/
+.hero:hover {
+  animation: floating 3s linear infinite;
+}
+@keyframes floating {
+  from {
+    transform: rotate(0deg) translateY(-12px) rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg) translateY(-12px) rotate(-360deg)
+  }
+}
