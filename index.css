@@ -16,9 +16,9 @@ nav {
   box-shadow: 0px 5px 5px #6622bf;
 }
 .header {
-  width: 1024px;
+  width: 1200px;
   margin: auto;
-  padding: 35px 0px 35px 0px;
+  padding: 25px 0px 25px 0px;
 }
 nav > .header {
   display: flex;
