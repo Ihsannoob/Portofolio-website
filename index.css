@@ -33,6 +33,7 @@ nav > .header {
   justify-content: space-between;
   font-size: 15px;
   align-items: center;
+  padding: 20px;
 }
 .menu {
   width: 30%;
