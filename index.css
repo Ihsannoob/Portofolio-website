@@ -16,6 +16,13 @@ nav {
   border-bottom: 2px solid rgba(117, 78, 225, 0.8);
   box-shadow: -3px 10px 20px #6622bf;
 }
+.logo {
+  display: flex;
+  align-items: center;
+}
+.logo > a > img {
+  height: 50px;
+}
 .header {
   width: 1024px;
   margin: auto;
@@ -23,8 +30,8 @@ nav {
 }
 nav > .header {
   display: flex;
-  justify-content: space-around;
-  font-size: 20px;
+  justify-content: space-between;
+  font-size: 15px;
   align-items: center;
 }
 .menu {
@@ -127,6 +134,7 @@ footer {
   justify-content: center;
   position: absolute;
   width: 100%;
+  text-shadow: 0px 0px 5px #6622bf, 0px 0px 8px #d069f5, 0px 0px 13px #e2a8f7;
 }
 .contact {
   display: flex;
@@ -134,12 +142,11 @@ footer {
   justify-content: center;
   position: absolute;
   width: 100%;
-  padding: 65px 0px;
-}
-.contact > ul {
+  padding: 70px 0px;
+  gap: 10px;
 }
 .contact > a > img {
-  height: 10px;
+  height: 50px;
 }
 .power {
   display: flex;
